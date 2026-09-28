@@ -58,8 +58,15 @@ window.COURSE = {
          "Most of the Time",
          "Nearly Every Time"
         ],
+        "row": true,
         "break_after": "I don't have one written"
-       },
+       }
+      ]
+     },
+     {
+      "heading": "YOUR LEADERSHIP FOUNDATION · M.V.P. (SELF)",
+      "intro": "",
+      "items": [
        {
         "id": "2.0",
         "label": "I used my written leadership vision to guide how I showed up, in my role, in life, and (if applicable) as a coach for my team.",
@@ -73,6 +80,7 @@ window.COURSE = {
          "Most of the Time",
          "Nearly Every Time"
         ],
+        "row": true,
         "break_after": "I don't have one written"
        },
        {
@@ -88,8 +96,15 @@ window.COURSE = {
          "Most of the Time",
          "Nearly Every Time"
         ],
+        "row": true,
         "break_after": "I'm not clear on my purpose yet"
-       },
+       }
+      ]
+     },
+     {
+      "heading": "YOUR LEADERSHIP FOUNDATION · M.V.P. (SELF)",
+      "intro": "",
+      "items": [
        {
         "id": "4.0",
         "label": "I made decisions and demonstrated leadership behaviors that reflected my organization's values.",
@@ -102,7 +117,8 @@ window.COURSE = {
          "Most of the Time",
          "Nearly Every Time",
          "N/A (I didn't have a relevant opportunity)"
-        ]
+        ],
+        "row": true
        },
        {
         "id": "5.0",
@@ -117,6 +133,7 @@ window.COURSE = {
          "Most of the Time",
          "Nearly Every Time"
         ],
+        "row": true,
         "break_after": "I don't currently use a defined 90-day planning or tracking approach"
        }
       ]
@@ -124,6 +141,11 @@ window.COURSE = {
      {
       "heading": "YOUR CORE 4 LEADERSHIP BEHAVIORS · AGILITY",
       "intro": "The next four pages cover the Core 4: the four capacities the Accelerator is built to strengthen: Agility, Resilience, Alignment and Wellbeing. They are the things that either hold or slip when work gets harder, and they are what repeated practice is meant to make consistent. One page each.\n\nFirst, Agility. Reflect on how you've responded to change, pressure, and shifting priorities. For each statement, indicate how often it reflects how you've shown up over the past 2 weeks.\n\nSome statements describe moments of change, pressure or uncertainty. Answer for the times those situations came up for you.",
+      "items": []
+     },
+     {
+      "heading": "YOUR CORE 4 LEADERSHIP BEHAVIORS · AGILITY",
+      "intro": "",
       "items": [
        {
         "id": "6.0",
@@ -137,7 +159,8 @@ window.COURSE = {
          "Most of the Time",
          "Nearly Every Time",
          "N/A (I didn't have a relevant opportunity)"
-        ]
+        ],
+        "row": true
        },
        {
         "id": "7.0",
@@ -151,8 +174,15 @@ window.COURSE = {
          "Most of the Time",
          "Nearly Every Time",
          "N/A (I didn't have a relevant opportunity)"
-        ]
-       },
+        ],
+        "row": true
+       }
+      ]
+     },
+     {
+      "heading": "YOUR CORE 4 LEADERSHIP BEHAVIORS · AGILITY",
+      "intro": "",
+      "items": [
        {
         "id": "8.0",
         "label": "I made timely decisions, even when I didn't have all the information I wanted.",
@@ -165,7 +195,8 @@ window.COURSE = {
          "Most of the Time",
          "Nearly Every Time",
          "N/A (I didn't have a relevant opportunity)"
-        ]
+        ],
+        "row": true
        }
       ]
      },
@@ -185,8 +216,15 @@ window.COURSE = {
          "Most of the Time",
          "Nearly Every Time",
          "N/A (I didn't have a relevant opportunity)"
-        ]
-       },
+        ],
+        "row": true
+       }
+      ]
+     },
+     {
+      "heading": "YOUR CORE 4 LEADERSHIP BEHAVIORS · RESILIENCE",
+      "intro": "",
+      "items": [
        {
         "id": "10.0",
         "label": "After setbacks or challenging situations, I recovered and became fully present for what came next.",
@@ -199,7 +237,8 @@ window.COURSE = {
          "Most of the Time",
          "Nearly Every Time",
          "N/A (I didn't have a relevant opportunity)"
-        ]
+        ],
+        "row": true
        },
        {
         "id": "11.0",
@@ -213,7 +252,8 @@ window.COURSE = {
          "Most of the Time",
          "Nearly Every Time",
          "N/A (I didn't have a relevant opportunity)"
-        ]
+        ],
+        "row": true
        }
       ]
      },
@@ -233,8 +273,15 @@ window.COURSE = {
          "Most of the Time",
          "Nearly Every Time",
          "N/A (I didn't have a relevant opportunity)"
-        ]
-       },
+        ],
+        "row": true
+       }
+      ]
+     },
+     {
+      "heading": "YOUR CORE 4 LEADERSHIP BEHAVIORS · ALIGNMENT",
+      "intro": "",
+      "items": [
        {
         "id": "13.0",
         "label": "When someone disagreed with my perspective or decision, I stayed open to their input while continuing to move toward what mattered most.",
@@ -247,7 +294,8 @@ window.COURSE = {
          "Most of the Time",
          "Nearly Every Time",
          "N/A (I didn't have a relevant opportunity)"
-        ]
+        ],
+        "row": true
        },
        {
         "id": "14.0",
@@ -261,7 +309,8 @@ window.COURSE = {
          "Most of the Time",
          "Nearly Every Time",
          "N/A (I didn't have a relevant opportunity)"
-        ]
+        ],
+        "row": true
        }
       ]
      },
@@ -281,8 +330,15 @@ window.COURSE = {
          "Most of the Time",
          "Nearly Every Time",
          "N/A (I didn't have a relevant opportunity)"
-        ]
-       },
+        ],
+        "row": true
+       }
+      ]
+     },
+     {
+      "heading": "YOUR CORE 4 LEADERSHIP BEHAVIORS · WELLBEING",
+      "intro": "",
+      "items": [
        {
         "id": "16.0",
         "label": "When plans kept changing, I took short, intentional breaks (90+ seconds) to reset and sustain my focus.",
@@ -295,7 +351,8 @@ window.COURSE = {
          "Most of the Time",
          "Nearly Every Time",
          "N/A (I didn't have a relevant opportunity)"
-        ]
+        ],
+        "row": true
        },
        {
         "id": "17.0",
@@ -309,7 +366,8 @@ window.COURSE = {
          "Most of the Time",
          "Nearly Every Time",
          "N/A (I didn't have a relevant opportunity)"
-        ]
+        ],
+        "row": true
        }
       ]
      },
@@ -329,8 +387,15 @@ window.COURSE = {
          "Most of the Time",
          "Nearly Every Time",
          "N/A (I didn't have a relevant opportunity)"
-        ]
-       },
+        ],
+        "row": true
+       }
+      ]
+     },
+     {
+      "heading": "TRANSLATING LEADERSHIP INTO IMPACTS",
+      "intro": "",
+      "items": [
        {
         "id": "19.0",
         "label": "I took steps to align my leadership behaviors with my manager's expectations and our team's priorities.",
@@ -343,7 +408,8 @@ window.COURSE = {
          "Most of the Time",
          "Nearly Every Time",
          "N/A (I didn't have a relevant opportunity)"
-        ]
+        ],
+        "row": true
        },
        {
         "id": "20.0",
@@ -357,8 +423,15 @@ window.COURSE = {
          "Most of the Time",
          "Nearly Every Time",
          "N/A (I didn't have a relevant opportunity)"
-        ]
-       },
+        ],
+        "row": true
+       }
+      ]
+     },
+     {
+      "heading": "TRANSLATING LEADERSHIP INTO IMPACTS",
+      "intro": "",
+      "items": [
        {
         "id": "21.0",
         "label": "When conditions changed or pressure increased, I was able to access my best decision-making and leadership.",
@@ -371,7 +444,8 @@ window.COURSE = {
          "Most of the Time",
          "Nearly Every Time",
          "N/A (I didn't have a relevant opportunity)"
-        ]
+        ],
+        "row": true
        },
        {
         "id": "22.0",
@@ -385,7 +459,8 @@ window.COURSE = {
          "Most of the Time",
          "Nearly Every Time",
          "N/A (I didn't have a relevant opportunity)"
-        ]
+        ],
+        "row": true
        }
       ]
      },
@@ -464,7 +539,13 @@ window.COURSE = {
          "5 Almost always"
         ],
         "row": true
-       },
+       }
+      ]
+     },
+     {
+      "heading": "How often, in the last two weeks:",
+      "intro": "",
+      "items": [
        {
         "id": "ALIGNMENT",
         "label": "ALIGNMENT: I said no to work that pulled me away from what matters most right now.",
@@ -492,7 +573,13 @@ window.COURSE = {
          "5 Almost always"
         ],
         "row": true
-       },
+       }
+      ]
+     },
+     {
+      "heading": "How often, in the last two weeks:",
+      "intro": "",
+      "items": [
        {
         "id": "REPS",
         "label": "REPS: I ran the drill from the last lesson.",
@@ -574,8 +661,15 @@ window.COURSE = {
          "Most of the Time",
          "Nearly Every Time"
         ],
+        "row": true,
         "break_after": "I don't have one written"
-       },
+       }
+      ]
+     },
+     {
+      "heading": "YOUR LEADERSHIP FOUNDATION · M.V.P. (SELF)",
+      "intro": "",
+      "items": [
        {
         "id": "2.0",
         "label": "I used my written leadership vision to guide how I showed up, in my role, in life, and (if applicable) as a coach for my team.",
@@ -589,6 +683,7 @@ window.COURSE = {
          "Most of the Time",
          "Nearly Every Time"
         ],
+        "row": true,
         "break_after": "I don't have one written"
        },
        {
@@ -604,8 +699,15 @@ window.COURSE = {
          "Most of the Time",
          "Nearly Every Time"
         ],
+        "row": true,
         "break_after": "I'm not clear on my purpose yet"
-       },
+       }
+      ]
+     },
+     {
+      "heading": "YOUR LEADERSHIP FOUNDATION · M.V.P. (SELF)",
+      "intro": "",
+      "items": [
        {
         "id": "4.0",
         "label": "I made decisions and demonstrated leadership behaviors that reflected my organization's values.",
@@ -618,7 +720,8 @@ window.COURSE = {
          "Most of the Time",
          "Nearly Every Time",
          "N/A (I didn't have a relevant opportunity)"
-        ]
+        ],
+        "row": true
        },
        {
         "id": "5.0",
@@ -633,6 +736,7 @@ window.COURSE = {
          "Most of the Time",
          "Nearly Every Time"
         ],
+        "row": true,
         "break_after": "I don't currently use a defined 90-day planning or tracking approach"
        }
       ]
@@ -640,6 +744,11 @@ window.COURSE = {
      {
       "heading": "YOUR CORE 4 LEADERSHIP BEHAVIORS · AGILITY",
       "intro": "The next four pages cover the Core 4: the four capacities the Accelerator is built to strengthen: Agility, Resilience, Alignment and Wellbeing. They are the things that either hold or slip when work gets harder, and they are what repeated practice is meant to make consistent. One page each.\n\nFirst, Agility. Reflect on how you've responded to change, pressure, and shifting priorities. For each statement, indicate how often it reflects how you've shown up over the past 2 weeks.\n\nSome statements describe moments of change, pressure or uncertainty. Answer for the times those situations came up for you.",
+      "items": []
+     },
+     {
+      "heading": "YOUR CORE 4 LEADERSHIP BEHAVIORS · AGILITY",
+      "intro": "",
       "items": [
        {
         "id": "6.0",
@@ -653,7 +762,8 @@ window.COURSE = {
          "Most of the Time",
          "Nearly Every Time",
          "N/A (I didn't have a relevant opportunity)"
-        ]
+        ],
+        "row": true
        },
        {
         "id": "7.0",
@@ -667,8 +777,15 @@ window.COURSE = {
          "Most of the Time",
          "Nearly Every Time",
          "N/A (I didn't have a relevant opportunity)"
-        ]
-       },
+        ],
+        "row": true
+       }
+      ]
+     },
+     {
+      "heading": "YOUR CORE 4 LEADERSHIP BEHAVIORS · AGILITY",
+      "intro": "",
+      "items": [
        {
         "id": "8.0",
         "label": "I made timely decisions, even when I didn't have all the information I wanted.",
@@ -681,7 +798,8 @@ window.COURSE = {
          "Most of the Time",
          "Nearly Every Time",
          "N/A (I didn't have a relevant opportunity)"
-        ]
+        ],
+        "row": true
        }
       ]
      },
@@ -701,8 +819,15 @@ window.COURSE = {
          "Most of the Time",
          "Nearly Every Time",
          "N/A (I didn't have a relevant opportunity)"
-        ]
-       },
+        ],
+        "row": true
+       }
+      ]
+     },
+     {
+      "heading": "YOUR CORE 4 LEADERSHIP BEHAVIORS · RESILIENCE",
+      "intro": "",
+      "items": [
        {
         "id": "10.0",
         "label": "After setbacks or challenging situations, I recovered and became fully present for what came next.",
@@ -715,7 +840,8 @@ window.COURSE = {
          "Most of the Time",
          "Nearly Every Time",
          "N/A (I didn't have a relevant opportunity)"
-        ]
+        ],
+        "row": true
        },
        {
         "id": "11.0",
@@ -729,7 +855,8 @@ window.COURSE = {
          "Most of the Time",
          "Nearly Every Time",
          "N/A (I didn't have a relevant opportunity)"
-        ]
+        ],
+        "row": true
        }
       ]
      },
@@ -749,8 +876,15 @@ window.COURSE = {
          "Most of the Time",
          "Nearly Every Time",
          "N/A (I didn't have a relevant opportunity)"
-        ]
-       },
+        ],
+        "row": true
+       }
+      ]
+     },
+     {
+      "heading": "YOUR CORE 4 LEADERSHIP BEHAVIORS · ALIGNMENT",
+      "intro": "",
+      "items": [
        {
         "id": "13.0",
         "label": "When someone disagreed with my perspective or decision, I stayed open to their input while continuing to move toward what mattered most.",
@@ -763,7 +897,8 @@ window.COURSE = {
          "Most of the Time",
          "Nearly Every Time",
          "N/A (I didn't have a relevant opportunity)"
-        ]
+        ],
+        "row": true
        },
        {
         "id": "14.0",
@@ -777,7 +912,8 @@ window.COURSE = {
          "Most of the Time",
          "Nearly Every Time",
          "N/A (I didn't have a relevant opportunity)"
-        ]
+        ],
+        "row": true
        }
       ]
      },
@@ -797,8 +933,15 @@ window.COURSE = {
          "Most of the Time",
          "Nearly Every Time",
          "N/A (I didn't have a relevant opportunity)"
-        ]
-       },
+        ],
+        "row": true
+       }
+      ]
+     },
+     {
+      "heading": "YOUR CORE 4 LEADERSHIP BEHAVIORS · WELLBEING",
+      "intro": "",
+      "items": [
        {
         "id": "16.0",
         "label": "When plans kept changing, I took short, intentional breaks (90+ seconds) to reset and sustain my focus.",
@@ -811,7 +954,8 @@ window.COURSE = {
          "Most of the Time",
          "Nearly Every Time",
          "N/A (I didn't have a relevant opportunity)"
-        ]
+        ],
+        "row": true
        },
        {
         "id": "17.0",
@@ -825,7 +969,8 @@ window.COURSE = {
          "Most of the Time",
          "Nearly Every Time",
          "N/A (I didn't have a relevant opportunity)"
-        ]
+        ],
+        "row": true
        }
       ]
      },
@@ -845,8 +990,15 @@ window.COURSE = {
          "Most of the Time",
          "Nearly Every Time",
          "N/A (I didn't have a relevant opportunity)"
-        ]
-       },
+        ],
+        "row": true
+       }
+      ]
+     },
+     {
+      "heading": "TRANSLATING LEADERSHIP INTO IMPACTS",
+      "intro": "",
+      "items": [
        {
         "id": "19.0",
         "label": "I took steps to align my leadership behaviors with my manager's expectations and our team's priorities.",
@@ -859,7 +1011,8 @@ window.COURSE = {
          "Most of the Time",
          "Nearly Every Time",
          "N/A (I didn't have a relevant opportunity)"
-        ]
+        ],
+        "row": true
        },
        {
         "id": "20.0",
@@ -873,8 +1026,15 @@ window.COURSE = {
          "Most of the Time",
          "Nearly Every Time",
          "N/A (I didn't have a relevant opportunity)"
-        ]
-       },
+        ],
+        "row": true
+       }
+      ]
+     },
+     {
+      "heading": "TRANSLATING LEADERSHIP INTO IMPACTS",
+      "intro": "",
+      "items": [
        {
         "id": "21.0",
         "label": "When conditions changed or pressure increased, I was able to access my best decision-making and leadership.",
@@ -887,7 +1047,8 @@ window.COURSE = {
          "Most of the Time",
          "Nearly Every Time",
          "N/A (I didn't have a relevant opportunity)"
-        ]
+        ],
+        "row": true
        },
        {
         "id": "22.0",
@@ -901,7 +1062,8 @@ window.COURSE = {
          "Most of the Time",
          "Nearly Every Time",
          "N/A (I didn't have a relevant opportunity)"
-        ]
+        ],
+        "row": true
        }
       ]
      },
@@ -936,8 +1098,15 @@ window.COURSE = {
          "I haven't set one up yet",
          "I've set one up, but I'm not really using it",
          "I'm actively using it to keep my most important priorities visible, track progress and guide my actions"
-        ]
-       },
+        ],
+        "row": true
+       }
+      ]
+     },
+     {
+      "heading": "CLOSING FEEDBACK",
+      "intro": "",
+      "items": [
        {
         "id": "26.0",
         "label": "Over the past two weeks, when conditions changed or pressure increased, how often did you use a practice, tool or approach from the M.V.P. Accelerator to guide what you did next?",
@@ -950,7 +1119,8 @@ window.COURSE = {
          "Most of the Time",
          "Nearly Every Time",
          "N/A (I did not encounter a relevant situation)"
-        ]
+        ],
+        "row": true
        },
        {
         "id": "27.0",
@@ -968,7 +1138,13 @@ window.COURSE = {
          "Other (please describe)"
         ],
         "other": "Other (please describe)"
-       },
+       }
+      ]
+     },
+     {
+      "heading": "CLOSING FEEDBACK",
+      "intro": "",
+      "items": [
        {
         "id": "28.0",
         "label": "Compared with the start of the Accelerator, how consistently can you now access your best decision-making and leadership when conditions change, the path is unclear or pressure increases?",
@@ -980,7 +1156,8 @@ window.COURSE = {
          "About the same",
          "More consistently",
          "Much more consistently"
-        ]
+        ],
+        "row": true
        },
        {
         "id": "29.0",
@@ -995,6 +1172,11 @@ window.COURSE = {
      {
       "heading": "FEEDBACK ON YOUR MANAGER",
       "intro": "You've completed the assessment of your own leadership. This last section is about your manager.\n\nYou're being asked because you see how they work. Your answers are combined with those of other direct reports before anything is reported, and nothing is attributed to you individually.\n\nThink about how your manager has led since the Accelerator began, compared with how they were leading before that.",
+      "items": []
+     },
+     {
+      "heading": "FEEDBACK ON YOUR MANAGER",
+      "intro": "",
       "items": [
        {
         "id": "F1",
@@ -1039,6 +1221,7 @@ window.COURSE = {
          "Much more often",
          "Haven't seen enough of this"
         ],
+        "row": true,
         "break_before": "Haven't seen enough of this"
        },
        {
@@ -1054,8 +1237,15 @@ window.COURSE = {
          "Much more often",
          "Haven't seen enough of this"
         ],
+        "row": true,
         "break_before": "Haven't seen enough of this"
-       },
+       }
+      ]
+     },
+     {
+      "heading": "HOW YOUR MANAGER HAS LED",
+      "intro": "",
+      "items": [
        {
         "id": "32.0",
         "label": "Every role involves setbacks. Some people move on from them quickly, others stay with them longer.\nAfter setbacks or difficult moments, my manager recovers, refocuses and helps us learn and move forward.",
@@ -1069,6 +1259,7 @@ window.COURSE = {
          "Much more often",
          "Haven't seen enough of this"
         ],
+        "row": true,
         "break_before": "Haven't seen enough of this"
        },
        {
@@ -1084,8 +1275,15 @@ window.COURSE = {
          "Much more often",
          "Haven't seen enough of this"
         ],
+        "row": true,
         "break_before": "Haven't seen enough of this"
-       },
+       }
+      ]
+     },
+     {
+      "heading": "HOW YOUR MANAGER HAS LED",
+      "intro": "",
+      "items": [
        {
         "id": "34.0",
         "label": "How a leader manages their own energy tends to show in how they turn up.\nWhen demands increase, my manager manages their own capacity in ways that support sustained performance for themselves and the team.",
@@ -1099,6 +1297,7 @@ window.COURSE = {
          "Much more often",
          "Haven't seen enough of this"
         ],
+        "row": true,
         "break_before": "Haven't seen enough of this"
        },
        {
@@ -1114,8 +1313,15 @@ window.COURSE = {
          "Much more often",
          "Haven't seen enough of this"
         ],
+        "row": true,
         "break_before": "Haven't seen enough of this"
-       },
+       }
+      ]
+     },
+     {
+      "heading": "HOW YOUR MANAGER HAS LED",
+      "intro": "",
+      "items": [
        {
         "id": "36.0",
         "label": "Leaders often know what they want to do, and still find it harder to do when conditions get hard.\nWhen conditions change, the path is unclear or pressure increases, my manager continues to demonstrate effective decision-making and leadership.",
@@ -1129,6 +1335,7 @@ window.COURSE = {
          "Much more often",
          "Haven't seen enough of this"
         ],
+        "row": true,
         "break_before": "Haven't seen enough of this"
        }
       ]
