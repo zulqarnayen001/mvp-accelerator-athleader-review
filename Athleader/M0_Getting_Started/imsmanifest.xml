@@ -40,9 +40,7 @@
       <file href="assets/fonts/Montserrat-VF.ttf"/>
       <file href="assets/mark.svg"/>
       <file href="assets/photos/ai_celebration_team.jpg"/>
-      <file href="assets/photos/ai_court_line_detail.jpg"/>
       <file href="assets/photos/ai_man_assessment.jpg"/>
-      <file href="assets/photos/ai_man_leads_standup.jpg"/>
       <file href="assets/photos/ai_pc_team_huddle.jpg"/>
       <file href="assets/photos/ai_sprinter_start_blocks.jpg"/>
       <file href="assets/photos/ai_stage_leader_spotlight.jpg"/>
@@ -50,6 +48,8 @@
       <file href="assets/photos/faces.jpg"/>
       <file href="assets/photos/hexagon.jpg"/>
       <file href="assets/photos/melissa.jpg"/>
+      <file href="assets/photos/michael_platt.jpg"/>
+      <file href="assets/photos/pb_cover_banner_athleader.jpg"/>
       <file href="assets/playbook_cover.jpg"/>
       <file href="assets/posters/welcome.jpg"/>
       <file href="assets/pro_lachina.jpg"/>
@@ -110,11 +110,6 @@
       <file href="js/narration.js"/>
       <file href="js/playbook.js"/>
       <file href="js/player.js"/>
-      <file href="js/res/90-Day_Way_Core_4_Scorecard.pdf.js"/>
-      <file href="js/res/90-Day_Way_Core_4_Scorecard_Example.pdf.js"/>
-      <file href="js/res/Athleader_Growth_Guide_Benchmark.pdf.js"/>
-      <file href="js/res/Athleader_Playbook_Full_Season.pdf.js"/>
-      <file href="js/res/Commitment_and_Starting_Line_Agenda.pdf.js"/>
       <file href="js/scorm.js"/>
       <file href="js/vendor/pdf-lib.LICENSE.md"/>
       <file href="js/vendor/pdf-lib.min.js"/>
